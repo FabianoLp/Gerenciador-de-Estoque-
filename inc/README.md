@@ -1,6 +1,32 @@
 
 
-//Footer para implemntar depois 
+
+Sistema para Gerenciar Estoque em PHP 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Footer para implementar depois 
 
 <?php
 /*
