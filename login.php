@@ -35,7 +35,7 @@ body>.container {
 </style>
 <?php include('inc/container.php');?>
 
-	<h1 class="text-center my-4 py-3 text-light" id="title">Sistema de Gestão de Estoque - PHP <i class="bi bi-box-fill" style="font-size: 40px"></i></h1>	
+	<h1 class="text-center my-4 py-3 text-light" id="title">Sistema de Gestão de Estoque - PHP - TESTE <i class="bi bi-box-fill" style="font-size: 40px"></i></h1>	
 	<div class="col-lg-4 col-md-5 col-sm-10 col-xs-12">
 		<div class="card rounded-0 shadow">
 			<div class="card-header">
